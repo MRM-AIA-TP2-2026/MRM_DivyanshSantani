@@ -1,6 +1,6 @@
 # Task 4 and 5: Branching, Merging, and READMEs
 
-## Task 4 Description
+## Task 4 Description 
 
 Task 4 involved creating a new branch named `Temp`, adding a README file named `Task_3.md` (which described Task 3), and pushing the `Temp` branch to the remote GitHub repository.
 
